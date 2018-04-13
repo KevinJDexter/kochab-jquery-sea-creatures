@@ -2,3 +2,11 @@ body {
   color: steelblue;
   background-color: #9ce1ba;
 }
+
+table, tr, th {
+  border: black 1px solid;
+}
+
+table {
+  width: 100%;
+}
